@@ -12,7 +12,7 @@
         <button @click="refreshInfo" class="stock-query-btn">查询</button>
     </div>
 
-    <span style="color: #ccc; font-size: .8rem;">
+    <span style="font-size: .8rem;">
          使用Nuxt 服务端渲染全栈开发，前端vue3，后端node，数据来源tsanghi.com
     </span>
 
